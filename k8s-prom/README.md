@@ -7,5 +7,3 @@
 - kube-state-metrics：聚合kubernetes资源对象，提供指标数据。
 
 
-#### 参考：https://github.com/stefanprodan/k8s-prom-hpa
-
